@@ -309,12 +309,12 @@ iframe {
 
 	/********** Sections **********/
 
-	sections {
+	section {
 		padding: 20px;
 		background: white;
 	}
 
-	sections a {
+	section a {
 		color: #555;
 		text-decoration: underline;
 	}
