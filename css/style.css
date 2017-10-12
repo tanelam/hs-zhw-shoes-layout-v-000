@@ -309,12 +309,12 @@ iframe {
 
 	/********** Sections **********/
 
-	#feature-brands {
+	sections {
 		padding: 20px;
 		background: white;
 	}
 
-	#archive-list a {
+	sections a {
 		color: #555;
 		text-decoration: underline;
 	}
