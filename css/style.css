@@ -108,7 +108,7 @@ iframe {
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
-	background: none;
+	background: clear;
 }
 
 .shadow {
