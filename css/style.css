@@ -309,9 +309,9 @@ iframe {
 
 	/********** Sections **********/
 
-	section {
+	#deals {
 		padding: 20px;
-		background: white;
+		margin: 0 0 10px;
 	}
 
 	section a {
