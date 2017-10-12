@@ -309,12 +309,12 @@ iframe {
 
 	/********** Sections **********/
 
-	#deals {
+	section {
 		padding: 20px;
 		background: white;
 	}
 
-	#deals a {
+	section a {
 		color: #555;
 		text-decoration: underline;
 	}
