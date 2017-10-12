@@ -260,7 +260,7 @@ iframe {
 /********** Social Bar **********/
 
 #social {
-	position: fixed;
+	position: fixed;;
 	top: 200px;
 	right: 3px;
 	width: 40px;
@@ -311,6 +311,7 @@ iframe {
 	section {
 		padding: 20px;
 		background: white;
+		margin: 20px;
 	}
 
 	section a {
